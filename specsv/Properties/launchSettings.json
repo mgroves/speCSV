@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "specsv": {
+      "commandName": "Project",
+      "commandLineArgs": "-t SqlServer -c \"Server=localhost;Database=cbimportexample;Trusted_Connection=True;\""
+    }
+  }
+}
